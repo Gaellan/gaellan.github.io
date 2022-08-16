@@ -175,7 +175,7 @@ Notre Router va servir à analyser la requête et appeler le bon controller si l
 
 Nous allons le créer dans un nouveau dossier `services` à la racine du projet.
 
-Le contenu du fichier `services/Route.php` :
+Le contenu du fichier `services/Router.php` :
 
 {% highlight php %}
 <?php
